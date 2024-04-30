@@ -32,7 +32,7 @@ console.log("Hello %s!", msg)
 
 // 操作 DOM
 
-// 这种方法过时了，不好维护
+// 这种方法过时了，不好维护 
 // document.write(`<h1>${msg}</h1>`)
 
 // innerHTML
